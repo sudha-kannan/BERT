@@ -1,2 +1,2 @@
-Here is a BERT model that is fine-tuned to classify Hate speech as either the text contains hateful comments or not in Hindi language.
+*This repository contains the code for fine-tuning BERT model to classify Hate speech in Hindi language.*
 
